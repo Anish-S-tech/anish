@@ -1,1 +1,1 @@
-# Just a repository for the dummy works
+Just a repository for the dummy works
