@@ -2,3 +2,7 @@ I'm an artificial intelligence and data science student at Sri Eshwar College of
 I'm continuously exploring the realms of artificial intelligence and Data Science and building projects on them. I'm actively indulged to evolve my technical skills to the next level day by day.
 
 Skills : C , C++ , Python , MySQL , Flask , Pandas , Numpy , Matplotlib , Scikit-Learn
+
+Competitive programming profiles:
+
+1. Leetcode - solved 373 problems (1443 rating)
