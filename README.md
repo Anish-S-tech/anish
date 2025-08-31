@@ -6,3 +6,4 @@ Skills : C , C++ , Python , MySQL , Flask , Pandas , Numpy , Matplotlib , Scikit
 Competitive programming profiles:
 
 1. Leetcode - solved 373 problems (1443 rating)
+2. Codechef - solved 791 problems (1121 rating)
