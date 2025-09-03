@@ -7,3 +7,4 @@ Competitive programming profiles:
 
 1. Leetcode - solved 373 problems (1443 rating)
 2. Codechef - solved 791 problems (1121 rating)
+3. Hackerrank - 4 stars each in C, C++, Python, SQL
